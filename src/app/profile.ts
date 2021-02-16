@@ -1,5 +1,5 @@
 
-export interface Hero {
+export interface Profile {
     age: number;
     name: string;
 }
